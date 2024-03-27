@@ -1,2 +1,3 @@
 # DUCAT-REACT-JS
 This repo has only SRC folder from react app...
+first check : App.js , then see the files used systematically in the react app
